@@ -1,4 +1,4 @@
-## Hi there 👋
+## Trabajar en este readme para mejorar mi _profile_ en Github
 
 <!--
 **jorgesr05/jorgesr05** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
